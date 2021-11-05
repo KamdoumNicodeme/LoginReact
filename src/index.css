@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.body-bg{
+  background-color: #9921e8;
+  background-image: linear-gradient(315deg,#9921e8 0%,#5f72be 74%);
+  font-family: 'Lato',sans-serif;
+}
